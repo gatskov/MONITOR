@@ -1,0 +1,9 @@
+﻿  main.cpp
+  my_mon.cpp
+  Создание кода...
+E:\С++\MON\main.cpp(1,1): error C1083: Не удается открыть файл источник: E:\С++\MON\main.cpp: No such file or directory,
+  (компиляция исходного файла "E:/%D0%A1++/MON/main.cpp")
+  
+E:\С++\MON\my_mon.cpp(1,1): error C1083: Не удается открыть файл источник: E:\С++\MON\my_mon.cpp: No such file or directory,
+  (компиляция исходного файла "E:/%D0%A1++/MON/my_mon.cpp")
+  
